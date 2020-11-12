@@ -14,6 +14,8 @@ app.use(express.static("public"));
 
 mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", { useNewUrlParser: true });
 
+require("./routes/html-routes")(app);
+
 app.listen(PORT, () => {
     console.log(`App is live on http://localhost:${PORT}`);
 });
