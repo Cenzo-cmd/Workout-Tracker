@@ -1,13 +1,19 @@
-#"Workout Tracker" 
+
  ![MIT_License License](https://img.shields.io/badge/License-MIT_License-brightgreen)
  ![Repo-Code_Composition](https://img.shields.io/github/languages/top/Cenzo-cmd/workout-tracker) 
  ![Repo Size](https://img.shields.io/github/repo-size/Cenzo-cmd/workout-tracker)
  ![Open Issues](https://img.shields.io/github/issues/Cenzo-cmd/workout-tracker)
  ![Contributor](https://img.shields.io/github/contributors/cenzo-cmd/workout-tracker)  
  
+ #Workout Tracker <br>
+ 
 A full-stack application used to create excercises and track your workout.
 
-<img src="public/assets/images/stats.png" width="500px"><br>
+
+
+<img src="public/assets/images/graph.png"><br>
+<img src="public/assets/images/main.png"><br>
+<img src="public/assets/images/main.png"><br>
 
 ## Table of Contents
 
