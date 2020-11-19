@@ -1,4 +1,4 @@
-# UTA-FSF Project 2 - "Workout Tracker" 
+#"Workout Tracker" 
  ![MIT_License License](https://img.shields.io/badge/License-MIT_License-brightgreen)
  ![Repo-Code_Composition](https://img.shields.io/github/languages/top/Cenzo-cmd/workout-tracker) 
  ![Repo Size](https://img.shields.io/github/repo-size/Cenzo-cmd/workout-tracker)
@@ -7,7 +7,7 @@
  
 A full-stack application used to create excercises and track your workout.
 
-![Screenshot of deployed app](./app-screenshot.png)
+<img src="public/assets/images/stats.png" width="500px"><br>
 
 ## Table of Contents
 
