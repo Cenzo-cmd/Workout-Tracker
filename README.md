@@ -13,7 +13,7 @@ A full-stack application used to create excercises and track your workout.  Tech
 
 <img src="public/assets/images/graph.png"><br>
 <img src="public/assets/images/main.png"><br>
-<img src="public/assets/images/main.png"><br>
+<img src="public/assets/images/addExercise.png"><br>
 
 ## Table of Contents
 
