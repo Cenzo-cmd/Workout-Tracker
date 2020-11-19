@@ -5,9 +5,9 @@
  ![Open Issues](https://img.shields.io/github/issues/Cenzo-cmd/workout-tracker)
  ![Contributor](https://img.shields.io/github/contributors/cenzo-cmd/workout-tracker)  
  
- #Workout Tracker <br>
+ # Workout Tracker <br>
  
-A full-stack application used to create excercises and track your workout.  Technologies used are Javascript, express, Node JS, Mongo DB, Mongoose, html and Css.
+A full-stack application used to create excercises and track your workout.  Technologies used are Javascript, express, Node JS, Mongo DB, Mongoose, html and Css.  
 
 
 
