@@ -1,7 +1,6 @@
 const express = require("express");
 const logger = require("morgan");
 const mongoose = require("mongoose");
-const dotenv = require("dotenv").config();
 
 const PORT = process.env.PORT || 8080;
 
