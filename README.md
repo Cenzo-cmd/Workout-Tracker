@@ -37,7 +37,7 @@ Please contact any of the team members below if you find an issue or have a sugg
 
 ## Usage 
 
-Just visit ![Workout Tracker](https://whispering-headland-88180.herokuapp.com/?id=5fb5eed23226a00017fe2d2f) on Heroku and sign up to begin!  
+Just visit [here](https://whispering-headland-88180.herokuapp.com/?id=5fb5eed23226a00017fe2d2f) on Heroku and sign up to begin!  
   
 This app is used to create, track and view excercises.  Simply start the app and click create workout.  All items will be stored in Mondo's Atlas DB.  
 
