@@ -44,5 +44,5 @@ This app is used to create, track and view excercises.  Simply start the app and
 ---
 
 ## Team
-[Vincent Doria](https://github.com/Cenzo-cmd)  
+[Vincent R. Doria Jr.](https://github.com/Cenzo-cmd)  
 
